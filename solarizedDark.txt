@@ -1,0 +1,13 @@
+#839496 foreground
+#002B36 background
+#073642 background 2
+#EEE8D5 off-white
+#FDF6E3 white
+#2AA198 cyan
+#D33682 magenta
+#6C71C4 lavender
+#268BD2 blue
+#B58900 yellow
+#859900 green
+#CB4B16 orange
+#DC322F red
