@@ -6,24 +6,25 @@ html {
   border: 10px;
   padding: 0px;
   background-color:#002b36;
-  color:#2AA198
+  color:#2AA198;
 }
 main {
-  color:#073642
+  background-color:#073642;
+  color:#2AA198;
 }
 main > h1 {
   font-size:3em;
-  color:#2AA198
+  color:#2AA198;
 }
 main > h2 {
-  color:#2AA198
+  color:#2AA198;
 }
 main > h3 {
-  color:#2AA198
+  color:#2AA198;
 }
 a:link {
-  color:#268BD2
+  color:#268BD2;
 }
 a:visited {
-  color:#6C71C4
+  color:#6C71C4;
 }
