@@ -1,12 +1,15 @@
 * {
   font-family: consolas, Helvetica, sans-serif;
 }
-html, main {
+html {
   margin: 0px;
   border: 10px;
   padding: 0px;
   background-color:#002b36;
   color:#2AA198
+}
+main {
+  color:#073642
 }
 main > h1 {
   font-size:3em;
