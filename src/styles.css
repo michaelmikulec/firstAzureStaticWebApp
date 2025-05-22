@@ -5,8 +5,8 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: #002b36;
-  color: #2AA198
+  background-color:#002b36;
+  color:#2AA198
 }
 main {
   margin: auto;
@@ -15,17 +15,17 @@ main {
 }
 main > h1 {
   font-size: 3.5em;
-  color: #2AA198
+  color:#2AA198
 }
 main > h2 {
-  color: #2AA198
+  color:#2AA198
 }
 main > h3 {
-  color: #2AA198
+  color:#2AA198
 }
 a:link {
-  color: #268BD2
+  color:#268BD2
 }
 a:visited {
-  color: #268BD2
+  color:#6C71C4
 }
